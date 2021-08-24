@@ -1,1 +1,2 @@
 # Subnautica-word-game
+Subnautica is an open-world adventure game that was initially released Unknown Worlds Entertainment in 2014. This implementation of Subnautica, i will be implementing the role of the Diver. For our purposes, the Diver can search for basic materials (such as lead or titanium), combine basic material into advanced material, and then combine advanced material into unique diving equipment. The goal is to build equipment to allow us to exceed the 1000-meter mark for our diving depth
